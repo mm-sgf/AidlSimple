@@ -1,0 +1,4 @@
+rootProject.name = "AidlSimple"
+include ':aidlcline'
+include ':AidlLibaray'
+include ':aidlservice'
